@@ -1,7 +1,7 @@
 name: Lane Designs
 favicon: null
-layout_spectrum: 0.6331794196739793
-typography_spectrum: 0.1531396913342178
+layout_spectrum: 0.78441
+typography_spectrum: 0.13407
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.45274347509257495
-  lightness: 0.7464050233829767
-  saturation: 0.0738042276352644
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.125
   rhythmicContrast: 0.6002697900403291
 purpose: []

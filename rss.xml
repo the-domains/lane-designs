@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lane Designs]]></title>
         <description><![CDATA[Lane Designs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lane-designs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 05:13:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 05:50:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lane-designs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The furniture of Java]]></title>
             <description><![CDATA[<article><h1>The furniture of Java</h1><p>The amazing start of Lane Designs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/807e32beed914090ce75396d31087a91b8a5ea96.jpg"></article>]]></description>
-            <link>undefinedthe-furniture-of-java/index.html</link>
+            <link>https://thegrid.ai/lane-designs/the-furniture-of-java/index.html</link>
             <guid isPermaLink="false">91442d7e-9ef8-438c-8aae-3cd9724ff172</guid>
-            <pubDate>Sat, 13 Feb 2016 05:13:06 GMT</pubDate>
+            <pubDate>Sun, 14 Feb 2016 05:50:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
